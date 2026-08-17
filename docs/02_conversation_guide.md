@@ -84,6 +84,7 @@ Nếu ghi âm:
 - “Bạn có phải quay lại phần này sau đó không?”
 - “Nó có ảnh hưởng tới phần tiếp theo không?”
 - “Cuối cùng bạn biết mình đã hiểu đúng bằng cách nào?”
+- “Sau đó khi làm bài tập/quiz liên quan, bạn có gặp lại chỗ chưa hiểu kỹ phần đó không?” *(thêm sau practice — đào sâu risk hiểu sai lệch mà không tự nhận ra, vì cost thời gian ở lượt trước gần như bằng 0)*
 
 ## Instructor interview
 
@@ -125,7 +126,7 @@ Nếu ghi âm:
 
 ### Learner
 - “Có lần nào bạn gặp chỗ khó nhưng tự xử lý rất nhanh, gần như không gây phiền gì không? Kể mình lần gần nhất.”
-- “Có khi nào bạn xem lại hoặc dừng lâu ở một phần dù thực ra bạn không hề bị kẹt không?”
+- “Bạn có nhớ lần nào đọc lại hoặc xem lại một đoạn nhiều lần, mà sau đó nhận ra thật ra mình đã hiểu từ đầu rồi không? Kể mình lần gần nhất.” *(sửa sau practice — bản cũ “có khi nào... dù thực ra không hề bị kẹt” quá trừu tượng, interviewee không trả lời được)*
 
 ### Instructor
 - “Có trường hợp nào bạn vẫn nhận ra learner cần hỗ trợ rất sớm dù họ không chủ động hỏi không?”
